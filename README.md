@@ -8,7 +8,7 @@
   ----------------------------------------------------
   Name: Nandhesh
   From: India
-  Intrests: ["CyberSecurity", "Linux", "AI-ML" "Foss"]
+  Intrests: ["CyberSecurity", "Linux", "AI-ML" ]
   ```
 
 
